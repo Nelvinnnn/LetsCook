@@ -1,0 +1,7 @@
+{
+  "name": "LetsCook",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
